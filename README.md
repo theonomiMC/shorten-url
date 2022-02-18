@@ -6,6 +6,7 @@ Create your account and shorten url.
 
 ## Getting Started
 
-1. First,  go to server and run ```npm run dev```. 
+1. Create account. 
 
-2. Then go to client and run ```npm start ```. This will open http://localhost:3000
+2. Shorten url.
+3. See statistics of visited urls and visitors
